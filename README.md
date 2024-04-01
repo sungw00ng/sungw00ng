@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/568f4a74b7b545a9a637d171fe5f928e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
+<a href="https://www.notion.so/568f4a74b7b545a9a637d171fe5f928e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF"/></a>
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
