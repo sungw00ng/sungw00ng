@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://velog.io/@sungw00ng/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=#20C997"/></a>
 <!--
 **sungw00ng/sungw00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
