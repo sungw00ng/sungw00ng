@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.notion.so/568f4a74b7b545a9a637d171fe5f928e" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@sungw00ng/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
 "I'm worried about the uncertain future, 
 
