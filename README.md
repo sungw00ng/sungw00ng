@@ -10,5 +10,4 @@ Maybe the advice to hear that is plausible nonsense.
 It's so funny if I get caught up in nonsense and change the direction of my life:)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={showwoonggical})](https://solved.ac/{showwoonggical})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=showwoonggical)](https://solved.ac/showwoonggical/)
